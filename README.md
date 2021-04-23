@@ -7,7 +7,7 @@ Install the library:
 
 `npm install rocrate`
 
-## HTML Renderingv -- DEPRECATED
+## HTML Rendering -- DEPRECATED
 
 THIS FEATURE HAS BEEN REMOVED. Use the [RO-Crate-HTML](https://www.npmjs.com/package/ro-crate-html-js) library instead.
 
